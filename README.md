@@ -39,7 +39,7 @@ The smart contract address should be under the `Deployed to:` section you will s
 
 Place the address of the contract you just deployed on `.env.local`
 
-```text
+```bash
 VITE_PAYMENT_PROCESSOR_ADDRESS=0xYourContractAddress
 ```
 
